@@ -1,7 +1,7 @@
 // Career Guidance Chatbot - Frontend Logic (Enhanced with Industry/Domain)
 
-// API URL - Change to deployed URL when ready
-const API_URL = 'http://localhost:8000';
+// API URL - Live deployed backend on Render
+const API_URL = 'https://career-chatbot-1-fpx5.onrender.com';
 
 // Conversation state
 const state = {
